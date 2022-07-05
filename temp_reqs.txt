@@ -1,0 +1,22 @@
+{
+ 'id': 'hoVDOH68osZzKMPu-HqZDdieAQ5swXao5FJTutXkq1jd4Jk',
+ 'accountId': '6woaqs-IHUktFeDaPCECh9XCIyxyYYOUSIwaUIzjtB927ws', 
+ 'puuid': 'JO_Ef1faYzRC0VgP4Bd82x71Kx63cbAizZOofV6I3fDEakwyvYdszgCEjrnrOw9NaAFnYldiwycWOA', 
+ 'name': 'Fall Of Eden', 
+ 'profileIconId': 579, 
+ 'revisionDate': 1653767779000, 
+ 'summonerLevel': 251
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
